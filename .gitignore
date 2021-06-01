@@ -1,0 +1,6 @@
+build
+app_data/client_id.txt
+app_data/client_secret.txt
+app_data/host.txt
+.idea
+.gradle
