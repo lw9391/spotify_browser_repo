@@ -1,15 +1,15 @@
-#SpotifyApiBrowser
+# SpotifyApiBrowser
 
 Simple application that allows browsing through Spotify API from command line.
 Created with plain java and Gson library. As a training project, its main goal 
 was to learn basics of web technologies - Http protocol, REST API, OAuth 2.0 etc.
 
-##Technologies
+## Technologies
 * Java 15
 * Gradle 7.0.2
 * Gson 2.8.6
 
-##Launch
+## Launch
 There are a few steps required to make everything up and run:
 1. Create your Spotify account if you don't have one.
 2. Register new application. 
@@ -28,7 +28,7 @@ There are a few steps required to make everything up and run:
    in console
 6. Use 'help' command to see list of supported commands.
 
-##Scope of functionality
+## Scope of functionality
 As mentioned in description, application provide access to Spotify Api, however list of functionality is quite short and includes:
 * Getting all new releases
 * Getting all featured playlists
@@ -37,10 +37,10 @@ As mentioned in description, application provide access to Spotify Api, however 
 
 Before using any of browsing command authentication with spotify is required.
 
-##Project status
+## Project status
 Development suspended.
 
-##Sources
+## Sources
 Project topic and guidance thanks to https://hyperskill.org
 
 Spotify authorization:
